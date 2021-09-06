@@ -1,13 +1,13 @@
 {	
 	"prefix": "multi", 
 	"defaultSessionName": "bot", 
-	"zeksKey": "apikey",
+	"zeksKey": "uhYmJsPbD01XkOiMGtTy39Wbqzz",
 	"autoRead": true,
 	"self": false, 
 	"maxLimit": 30,
-	"ownerList": ["917xxxxxx@s.whatsapp.net", "919xxxxxx@s.whatsapp.net"],
+	"ownerList": ["918709022955@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
-    "imgUrl": "https://i.ibb.co/HtMFLVf/20210328-021346.jpg",
-	"pack": "lua",
-	"author": "cheia🎀"
+    "imgUrl": "https://pin.it/5h8cXN2",
+	"pack": "Nezuko",
+	"author": "Amrit🎀"
 }
